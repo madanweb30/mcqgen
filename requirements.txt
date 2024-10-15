@@ -1,0 +1,5 @@
+Install openai
+Install langchain
+Install streamlit
+Install python-dptenv
+Install PyPDF2
